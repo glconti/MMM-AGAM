@@ -1,0 +1,8 @@
+{
+    "name": "MMM-AGAM",
+    "version": "1.0.0",
+    "description": "Another Google Assistant module for the MagicMirror",
+    "main": "MMM-AGAM.js",
+    "author": "Gianluigi Conti",
+    "license": "MIT"
+}
